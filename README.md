@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hadi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
-<p align="left"><img  src =""></p>
+<p align="left" height="200"><img  src =""></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
