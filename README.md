@@ -2,7 +2,7 @@
 ![logo](https://github.com/M-Haadi/M-Haadi/blob/main/wallpaperflare.com_wallpaper%20(111).jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Hadi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 <p align="left"> <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="m-haadi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
